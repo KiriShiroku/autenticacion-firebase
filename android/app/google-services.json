@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608904546667",
+    "project_id": "auth-264bf",
+    "storage_bucket": "auth-264bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608904546667:android:0ee0f0e797acfa764b242e",
+        "android_client_info": {
+          "package_name": "com.example.aunticacion_google"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrAW8p7xYwbHw9akNkN8bKVmtiUUUEyVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
